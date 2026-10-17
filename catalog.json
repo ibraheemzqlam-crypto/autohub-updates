@@ -1,0 +1,14 @@
+﻿{
+    "apps":  [
+                 {
+                     "name":  "AutoHub Demo",
+                     "packageName":  "com.autohub.demo",
+                     "category":  "Tools",
+                     "description":  "Test update 1.0 to 1.1 without deleting data.",
+                     "versionCode":  3,
+                     "versionName":  "1.2",
+                     "apkUrl":  "https://ibraheemzqlam-crypto.github.io/autohub-updates/autohub-demo-v2.apk",
+                     "sha256":  "45079e85fbd6fc0cced22d138d7c74821211fd91dad77a33e89e917185e80b76"
+                 }
+             ]
+}
