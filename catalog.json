@@ -7,7 +7,7 @@
                      "description":  "Test update 1.0 to 1.1 without deleting data.",
                      "versionCode":  3,
                      "versionName":  "1.2",
-                     "apkUrl":  "https://ibraheemzqlam-crypto.github.io/autohub-updates/autohub-demo-v2.apk",
+                     "apkUrl":  "https://github.com/ibraheemzqlam-crypto/autohub-updates/releases/download/test-v1/demo-debug.apk",
                      "sha256":  "45079e85fbd6fc0cced22d138d7c74821211fd91dad77a33e89e917185e80b76"
                  },
                  {
@@ -86,7 +86,7 @@
                      "category":  "Apps",
                      "description":  "Compatibility must be verified",
                      "versionCode":  1015054,
-                     "versionName":  "µ»öΣ║ÜΦ┐¬Φ╜ªµ¿íτëê1.015054",
+                     "versionName":  "ÂµÂ»Ã¶Î£â•‘ÃœÎ¦â”Â¬Î¦â•œÂªÂµÂ¿Ã­Ï„Ã«Ãª1.015054",
                      "apkUrl":  "",
                      "sha256":  "dbc8799c714431308b713f62b08412b4fafeb20fed7e4976481ac2e03a2af2a7"
                  },
