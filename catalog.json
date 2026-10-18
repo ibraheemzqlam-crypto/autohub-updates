@@ -1,4 +1,4 @@
-﻿{
+{
     "apps":  [
                  {
                      "name":  "AutoHub Demo",
@@ -9,6 +9,216 @@
                      "versionName":  "1.2",
                      "apkUrl":  "https://ibraheemzqlam-crypto.github.io/autohub-updates/autohub-demo-v2.apk",
                      "sha256":  "45079e85fbd6fc0cced22d138d7c74821211fd91dad77a33e89e917185e80b76"
+                 },
+                 {
+                     "name":  "YouTube",
+                     "packageName":  "app.revanced.android.youtube",
+                     "category":  "Entertainment",
+                     "description":  "YouTube for Android vehicle display",
+                     "versionCode":  1561059358,
+                     "versionName":  "21.10.496",
+                     "apkUrl":  "",
+                     "sha256":  "fe7746549c2f6c42823c3cf7586aaa15091ddc4dc65b9cd3f13059fed29df72a"
+                 },
+                 {
+                     "name":  "SpeedCN",
+                     "packageName":  "cloud.speedcn.speedcnx",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  175,
+                     "versionName":  "V4.2.6",
+                     "apkUrl":  "",
+                     "sha256":  "f3d18d94dc3140a3ba41d0dd05a3f36aeb5c7b0d046588cc7275ef46b96052dc"
+                 },
+                 {
+                     "name":  "BYD Connect",
+                     "packageName":  "ru.bydconnect",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  3,
+                     "versionName":  "2.2",
+                     "apkUrl":  "",
+                     "sha256":  "8c73431e821db24464a61d243b55ce77c3d756e1741fdd09f4bb117318fa03a1"
+                 },
+                 {
+                     "name":  "DiAuto",
+                     "packageName":  "com.andrerinas.headunitrevived",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  111,
+                     "versionName":  "0.3.11",
+                     "apkUrl":  "",
+                     "sha256":  "c2ba6c2697dbff33f52deb8d6c78829dd6294d69fc1573535adb9de22d31ee3b"
+                 },
+                 {
+                     "name":  "DiPlay",
+                     "packageName":  "com.shihab.diplay",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  37,
+                     "versionName":  "0.2.18",
+                     "apkUrl":  "",
+                     "sha256":  "e241457b36b21fe75b06b5682b4dcfc4fbc25cf75b1855c7a4d055129635ce8e"
+                 },
+                 {
+                     "name":  "DiPlus",
+                     "packageName":  "com.van.diplus",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  143,
+                     "versionName":  "1.3.8b16",
+                     "apkUrl":  "",
+                     "sha256":  "96fe82234bfb43c5e62034bcb4e82cfd5ea60f73c12da41fff3cf1d19d27224c"
+                 },
+                 {
+                     "name":  "Drama Live",
+                     "packageName":  "com.sneig.livedrama",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  187,
+                     "versionName":  "13.0.3",
+                     "apkUrl":  "",
+                     "sha256":  "a3ab61b5aaa6adf028358db75415158484500eee9ea36461d0605368e8f78d55"
+                 },
+                 {
+                     "name":  "Dudu Launcher Pro",
+                     "packageName":  "com.dudu.autoui",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  1015054,
+                     "versionName":  "µ»öΣ║ÜΦ┐¬Φ╜ªµ¿íτëê1.015054",
+                     "apkUrl":  "",
+                     "sha256":  "dbc8799c714431308b713f62b08412b4fafeb20fed7e4976481ac2e03a2af2a7"
+                 },
+                 {
+                     "name":  "Gboard",
+                     "packageName":  "com.google.android.inputmethod.latin",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  175776213,
+                     "versionName":  "17.3.3.902587967-release-armeabi-v7a",
+                     "apkUrl":  "",
+                     "sha256":  "d167d0a796575f81858f07f8dcbbe0457788d3dad5e734ad2c69cc91ac745443"
+                 },
+                 {
+                     "name":  "GBox",
+                     "packageName":  "com.gbox.android",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  160600,
+                     "versionName":  "1.6.6.0",
+                     "apkUrl":  "",
+                     "sha256":  "956a2602d8f109f20746d1f566955bc086ddef1d4e3452fb7b0285513c389e76"
+                 },
+                 {
+                     "name":  "Maps",
+                     "packageName":  "com.google.android.apps.maps",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  1067031783,
+                     "versionName":  "11.81.1301",
+                     "apkUrl":  "",
+                     "sha256":  "8adb7e2ec8f2d3e35c97a1defb4a2346a2c682f2483fbe619af433e6835091e7"
+                 },
+                 {
+                     "name":  "LocalSend",
+                     "packageName":  "org.localsend.localsend_app",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  583,
+                     "versionName":  "1.17.0",
+                     "apkUrl":  "",
+                     "sha256":  "2c7f5fd4872da25115bb8e5e62f92de94dda47b0f249ff387ac667b13871dc3e"
+                 },
+                 {
+                     "name":  "MicroG RE",
+                     "packageName":  "app.revanced.android.gms",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  255034001,
+                     "versionName":  "6.1.1",
+                     "apkUrl":  "",
+                     "sha256":  "fc91b6a4cb657777809fe9b6bd7a1a25187a1b5a1a537e2a23a3ac780f2a3bed"
+                 },
+                 {
+                     "name":  "Netflix",
+                     "packageName":  "com.netflix.sv1",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  12,
+                     "versionName":  "8.138.0",
+                     "apkUrl":  "",
+                     "sha256":  "cbd5d0781ef821c69eb2cf80a2c5c17ba1c0cc0caa5249902a723495248fc2d1"
+                 },
+                 {
+                     "name":  "Phone Screen",
+                     "packageName":  "com.autochips.carplayapp",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  260,
+                     "versionName":  "2.60",
+                     "apkUrl":  "",
+                     "sha256":  "bf9abf7ff484cbd44496675fbc2b5d39c4711f8a10593ff7d0fce787bfa689ab"
+                 },
+                 {
+                     "name":  "Prime Video",
+                     "packageName":  "com.oe.photocollage",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  234,
+                     "versionName":  "3.0.452.257",
+                     "apkUrl":  "",
+                     "sha256":  "cc4d7cdb56c6554a6f7e19f6cce4c7fb6689e73004f22466962f65dc757b3023"
+                 },
+                 {
+                     "name":  "TPlayer",
+                     "packageName":  "teavideo.tvplayer.videoallformat",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  104,
+                     "versionName":  "8.0c",
+                     "apkUrl":  "",
+                     "sha256":  "8bf4fbe75fb7c0d37bfb3bf518126d11440d7ed9a14c9326f88d15f2457fb3fa"
+                 },
+                 {
+                     "name":  "ReVanced Manager Plus",
+                     "packageName":  "com.revanced.net.revancedmanager",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  123,
+                     "versionName":  "3.0.26",
+                     "apkUrl":  "",
+                     "sha256":  "2db8e588422b38c1751aedde4499267b10ebf289c8d022ccc5ea39ca7d772fef"
+                 },
+                 {
+                     "name":  "VRadio",
+                     "packageName":  "com.ilv.vradio",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  90207003,
+                     "versionName":  "2.7.3",
+                     "apkUrl":  "",
+                     "sha256":  "6a26ed05c8bd7b62d0155b2232e93f5740bc3a36a34bc21f2fc1f481a993f619"
+                 },
+                 {
+                     "name":  "WhatsApp",
+                     "packageName":  "com.whatsapp",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  262407012,
+                     "versionName":  "2.26.24.70",
+                     "apkUrl":  "",
+                     "sha256":  "71050759c155b315720a94d45bc34f46bbc9923987a09bc1a5b556262744d106"
+                 },
+                 {
+                     "name":  "YTV PRO",
+                     "packageName":  "com.ytv.pronew",
+                     "category":  "Apps",
+                     "description":  "Compatibility must be verified",
+                     "versionCode":  17,
+                     "versionName":  "14.0",
+                     "apkUrl":  "",
+                     "sha256":  "b6083769999865984805feac3751b340b2dd74ebfd34868d98a088d8fbd29bb0"
                  }
              ]
 }
