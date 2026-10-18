@@ -157,7 +157,7 @@
                      "description":  "Compatibility must be verified",
                      "versionCode":  260,
                      "versionName":  "2.60",
-                     "apkUrl":  "",
+                     "apkUrl":  "https://github.com/ibraheemzqlam-crypto/autohub-updates/releases/download/apps-v1/PhoneScreen_v2.6.apk",
                      "sha256":  "bf9abf7ff484cbd44496675fbc2b5d39c4711f8a10593ff7d0fce787bfa689ab"
                  },
                  {
@@ -177,7 +177,7 @@
                      "description":  "Compatibility must be verified",
                      "versionCode":  104,
                      "versionName":  "8.0c",
-                     "apkUrl":  "",
+                     "apkUrl":  "https://github.com/ibraheemzqlam-crypto/autohub-updates/releases/download/apps-v1/TPlayer.v8.0.Netflix.player.apk",
                      "sha256":  "8bf4fbe75fb7c0d37bfb3bf518126d11440d7ed9a14c9326f88d15f2457fb3fa"
                  },
                  {
@@ -197,7 +197,7 @@
                      "description":  "Compatibility must be verified",
                      "versionCode":  90207003,
                      "versionName":  "2.7.3",
-                     "apkUrl":  "",
+                     "apkUrl":  "https://github.com/ibraheemzqlam-crypto/autohub-updates/releases/download/apps-v1/VRadio.apk",
                      "sha256":  "6a26ed05c8bd7b62d0155b2232e93f5740bc3a36a34bc21f2fc1f481a993f619"
                  },
                  {
@@ -217,7 +217,7 @@
                      "description":  "Compatibility must be verified",
                      "versionCode":  17,
                      "versionName":  "14.0",
-                     "apkUrl":  "",
+                     "apkUrl":  "https://github.com/ibraheemzqlam-crypto/autohub-updates/releases/download/apps-v1/Ytv.pro.apk",
                      "sha256":  "b6083769999865984805feac3751b340b2dd74ebfd34868d98a088d8fbd29bb0"
                  }
              ]
